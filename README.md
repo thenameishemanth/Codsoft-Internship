@@ -4,7 +4,7 @@
 The Internship at codsoft was an amazing experience and exceptionally rewarding.
 I had the opportunity to delve into real-world Machine Learning Projects, significantly enhancing my proficiency in machine learning.
 <br>
-Below are the projects that was completed  in codsoft internship.
+Below are the projects that were completed  in codsoft internship.
 <br>
 <br>
 
