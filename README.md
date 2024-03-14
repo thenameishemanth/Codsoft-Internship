@@ -6,6 +6,7 @@ I had the opportunity to delve into real-world Machine Learning Projects, signif
 <br>
 Below are the projects that was given in codsoft internship.
 <br>
+<br>
 
 <ul>
 <li><b>Movie genre classification</b> : <a href='Task1_MovieGenreClassification.ipynb'>Task-1</a></li>
